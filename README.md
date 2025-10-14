@@ -1,6 +1,5 @@
 # 🌱 About Me
-Software Engineering • Java • 🌱 Spring Boot • Cloud • DevOps  
-@Sushitrash  
+Software Engineering • Java • 🌱 Spring Boot • Cloud • DevOps
 
 # 📊 Profile Analytics
 ![Profile Views](https://komarev.com/ghpvc/?username=Prathamm-saini&label=Profile%20Views&color=0e75b6&style=for-the-badge)
