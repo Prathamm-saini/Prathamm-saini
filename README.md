@@ -1,26 +1,34 @@
-# 🌱 Hey there! I'm Pratham Saini  
+<!-- 💻 GITHUB PROFILE README -->
 
-💻 Software Engineer | ☕ Java & Spring Boot | ☁️ Cloud & DevOps   
+<div align="center">
+  
+# 👋 Hey there! I'm <span style="color:#58A6FF;">Pratham Saini</span>  
+**Software Engineer • ☕ Java & Spring Boot • ☁️ Cloud & DevOps Explorer**
+
+![Profile Views](https://komarev.com/ghpvc/?username=Prathamm-saini&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+[![](https://visitcount.itsvg.in/api?id=Prathamm-saini&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
 
 ---
 
 ## 🌱 About Me  
-- 🎯 Passionate about backend engineering & scalable systems  
-- ⚙️ Currently building projects with **Spring Boot** and **React**  
-- ☁️ Exploring **Cloud & DevOps** (AWS, Jenkins, Docker)  
-- 💬 Ask me about **Java, REST APIs, Databases, and CI/CD**  
-- 🚀 Always learning, always growing  
+- 🎯 Passionate about **backend engineering** & building scalable systems  
+- ⚙️ Currently developing projects with **Spring Boot** and **React**  
+- ☁️ Exploring **Cloud, DevOps & System Design**  
+- 💬 Ask me about **Java, APIs, CI/CD, and Databases**  
+- 🚀 Lifelong learner and open to collaborations  
 
 ---
 
 ## 🌐 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratham-saini-397a82251/)  
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/prathamnvm)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prathamzxc@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prathamzxc@gmail.com)
 
 ---
 
-## 🧰 Tech Stack  
+## 💻 Tech Stack  
 
 ### 🖥️ Backend & Core
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -65,15 +73,17 @@
 | ![Stats](https://github-readme-stats.vercel.app/api?username=Prathamm-saini&theme=react&hide_border=false&show_icons=true&count_private=true) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamm-saini&theme=react&hide_border=false&layout=compact&langs_count=10&include_all_commits=true) |
 |---|---|
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prathamm-saini&theme=react&hide_border=false)  
-![Trophies](https://github-profile-trophy.vercel.app/?username=Prathamm-saini&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
+
+### 🏆 GitHub Trophies  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Prathamm-saini&theme=algolia&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-## 📈 Profile Views  
-![Profile Views](https://komarev.com/ghpvc/?username=Prathamm-saini&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-[![](https://visitcount.itsvg.in/api?id=Prathamm-saini&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
 
----
+📫 **Let’s connect and build something amazing together!**  
+Made with ❤️ by **Pratham Saini**
+
+</div>
 
 <!-- Created with ❤️ using GPRM ( https://gprm.itsvg.in ) -->
