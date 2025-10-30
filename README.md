@@ -78,12 +78,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Prathamm-saini&theme=algolia&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
-
-<div align="center">
-
-📫 **Let’s connect and build something amazing together!**  
-Made with ❤️ by **Pratham Saini**
-
-</div>
-
 <!-- Created with ❤️ using GPRM ( https://gprm.itsvg.in ) -->
