@@ -70,9 +70,9 @@
 | ![Stats](https://github-readme-stats.vercel.app/api?username=Prathamm-saini&theme=react&hide_border=false&show_icons=true&count_private=true) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamm-saini&theme=react&hide_border=false&layout=compact&langs_count=10&include_all_commits=true) |
 |---|---|
 
-
-### 🏆 GitHub Trophies  
+### 🏆 GitHub Trophies 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Prathamm-saini&theme=algolia&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 <!-- Created with ❤️ using GPRM ( https://gprm.itsvg.in ) -->
