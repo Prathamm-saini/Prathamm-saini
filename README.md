@@ -14,7 +14,7 @@
 
 ## 🌱 About Me  
 - 🎯 Passionate about **backend engineering** & building scalable systems  
-- ⚙️ Currently developing projects with **Spring Boot** and **React**  
+- ⚙️ Currently developing projects with **Spring Boot**
 - ☁️ Exploring **Cloud, DevOps & System Design**  
 - 💬 Ask me about **Java, APIs, CI/CD, and Databases**  
 - 🚀 Lifelong learner and open to collaborations  
